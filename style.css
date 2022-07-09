@@ -86,7 +86,7 @@ h1 {
     color: black;
     display: flex;
     justify-content: center;
-    margin-top: 128px;
+    margin-top: 96px;
 }
 
 ul {
@@ -134,7 +134,6 @@ ul img {
     font-size: 20px;
     margin-top: 0;
     padding: 32px 0 88px 400px;
-
 }
 
 footer {
