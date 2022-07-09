@@ -136,6 +136,41 @@ ul img {
     padding: 32px 0 88px 400px;
 }
 
+.signup-container {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    margin: 96px auto 96px auto;
+    border-radius: 10px;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    padding: 16px;
+}
+
+.p4 {
+    font-size: 24px;
+    font-weight: bolder;
+    margin-right: auto;
+    margin-bottom: 4px;
+}
+
+.p5 {
+    font-size: 16px;
+    margin-top: 4px;
+}
+
+.button2 {
+    border: 2px solid white;
+    margin-right: 80px;
+}
+
 footer {
     background-color: #1F2937;
     display: flex;
